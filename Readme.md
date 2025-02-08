@@ -50,9 +50,3 @@ Expected Response:
 {
     "response": "Hello! I am doing great. How can I assist you today?"
 }
-
-License
-
-This project is open-source and free to use under the MIT License.
-
-Author: Your NameGitHub: javediqbal8381
